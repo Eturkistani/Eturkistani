@@ -2,13 +2,12 @@
 
 ## Profile Information
 
-- **Name**: [Eyman Turkistani]
-- **Username**: [Eturkistani]
-- **Bio**: [I'm new to this]
+**Name**: [Eyman Turkistani]
+**Bio**: I am an HR Professional with 6+ years of experince in supporting different HR Functions from Total Rewards packages reviews to job evaluations and leveling. Currently working on obtaining my Master in Business Analytics and Big Data at IE University. 
 
 ## Skills
-- Programming laguages: SQL, Python 
-- **LinkedIn**: [www.linkedin.com/in/eymanturkistani]
+Programming laguages: SQL, Python 
+**LinkedIn**: [www.linkedin.com/in/eymanturkistani]
 
 ## Projects
 
@@ -27,7 +26,7 @@
 ## Work Experience
 
 ### [Senior HRBP]
-- **Description**: •	Leading Fuels Admin Area Team to manage all Fuels Organizations HR matters and provide oversight/governance services to the organizations including the liaison between fuels Organizations and the Downstream Business line.  
+- **Description**: •	Working at Saudi Aramco leading Fuels Admin Area Team to manage all Fuels Organizations HR matters and provide oversight/governance services to the organizations including the liaison between fuels Organizations and the Downstream Business line.  
 
 ## Certifications
 
